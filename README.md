@@ -2,7 +2,7 @@
 
 This repository is intended to store all the write-ups of the entity. Here, you will find various solved CTFs from different platforms, with each CTF potentially having multiple versions..
 
-## Estrutura 🧱
+## Structure 🧱
 
 The directory structure is as follows:
 
