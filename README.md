@@ -39,4 +39,5 @@ Para contribuir, basta seguir os seguintes passos:
 
 - [JoaoVitorBranco](https://github.com/JoaoVitorBranco) 😎
 - [AhmadKmahfoud](https://github.com/AhmadKmahfoud) 👨‍💻
+- [LeonardoHDMoura](https://github.com/LeonardoHDMoura) 🛡
 
