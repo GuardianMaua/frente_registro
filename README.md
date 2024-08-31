@@ -19,7 +19,7 @@ Each platform will have a directory named after it, containing a README.md file 
 
 ## How to Contribute 🤔
 
-Para contribuir, basta seguir os seguintes passos:
+To contribute, simply follow these steps:
 
 
 1. Clone the repository;
