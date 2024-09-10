@@ -1,21 +1,7 @@
 # frente_registro
 
 This repository is intended to store all the write-ups of the entity. Here, you will find various solved CTFs from different platforms, with each CTF potentially having multiple versions..
-
-## Structure 🧱
-
-The directory structure is as follows:
-
-```bash
-├── <CTF platform>
-│   ├── README.md
-│   ├── <CTF>
-│   │   ├── README.md
-│   │   ├── <CTF version>
-│   │   │   ├── writeup.docx
-```
-
-Each platform will have a directory named after it, containing a README.md file with a brief description of the platform and the solved CTFs. Inside the CTF directory, there will be a README.md file with a brief description of the CTF and the write-ups for each version of the CTF. Each version directory will be named after the user responsible for the write-up.
+.md file with a brief description of the CTF and the write-ups for each version of the CTF. Each version directory will be named after the user responsible for the write-up.
 
 ## How to Contribute 🤔
 
